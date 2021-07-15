@@ -1,0 +1,14 @@
+.displayContainer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: #202020;
+  height: 100px;
+  color: white;
+  text-align: right;
+  padding-right: 10px;
+}
+
+.displayOutput {
+  font-size: 50px;
+}
